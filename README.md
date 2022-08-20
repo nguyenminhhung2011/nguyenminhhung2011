@@ -27,3 +27,9 @@
 
 ## Most Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhunsocute&&layout=compact&&theme=cobalt)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=DataStructureAlgorithmsBook&theme=cobalt)](https://github.com/phucthuan1st/DataStructureAlgorithmsBook)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=LZW_Compression&theme=cobalt)](https://github.com/phucthuan1st/LZW_Compression)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=QueueNumberGame&theme=cobalt)](https://github.com/phucthuan1st/QueueNumberGame)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=Course-Registration-System&theme=cobalt)](https://github.com/phucthuan1st/Course-Registration-System)
