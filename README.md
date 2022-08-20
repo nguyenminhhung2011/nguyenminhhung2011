@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Minh Hung</h1>
+<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhunsocute&label=Profile%20views&color=0e75b6&style=flat" alt="minhunsocute" /> </p>
 
@@ -11,10 +12,8 @@
 - 📫 How to reach me **hungngnuyen.201102ak@gmail.com**
 
 - ⚡ Fun fact **I love playing game**
-<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
 <p align="left">
 <a href="https://fb.com/minh hưng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minh hưng" height="30" width="40" /></a>
 <a href="https://instagram.com/minhhung201102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minhhung201102" height="30" width="40" /></a>
