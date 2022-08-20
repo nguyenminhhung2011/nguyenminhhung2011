@@ -23,13 +23,13 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhunsocute&theme=cobalt&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhunsocute&theme=shades-of-purple&show_icons=true)
 
 ## Most Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhunsocute&&layout=compact&&theme=cobalt)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhunsocute&repo=GHealth&theme=cobalt)](https://github.com/minhunsocute/GHealth)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=LZW_Compression&theme=cobalt)](https://github.com/phucthuan1st/LZW_Compression)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=QueueNumberGame&theme=cobalt)](https://github.com/phucthuan1st/QueueNumberGame)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=Course-Registration-System&theme=cobalt)](https://github.com/phucthuan1st/Course-Registration-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhunsocute&repo=Tiktok_clone&theme=shades-of-purple)](https://github.com/minhunsocute/Tiktok_clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhunsocute&repo=Mountain_trip_UI&theme=cobalt)](https://github.com/minhunsocute/Mountain_trip_UI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhunsocute&repo=Instagram&theme=shades-of-purple)](https://github.com/minhunsocute/Instagram-Clone)
