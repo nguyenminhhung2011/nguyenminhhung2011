@@ -1,3 +1,4 @@
+[![MasterHead](https://wallpaperaccess.com/full/1223298.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nguyen Minh Hung</h1>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
