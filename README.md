@@ -28,7 +28,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhunsocute&theme=cobalt&show_icons=true)
 
 ## Most Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phucthuan1st&&layout=compact&&theme=shades-of-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhunsocute&&layout=compact&&theme=shades-of-purple)
 
 
 ## Most Project
