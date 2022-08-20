@@ -26,4 +26,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhunsocute&theme=cobalt&show_icons=true)
 
 ## Most Usage Languages 👨‍💻
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phucthuan1st&&layout=compact&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhunsocute&&layout=compact&&theme=cobalt)
