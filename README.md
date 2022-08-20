@@ -31,7 +31,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhunsocute&&layout=compact&&theme=shades-of-purple)
 
 
-## Most Project
+## Most Project!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhunsocute&repo=GHealth&theme=cobalt)](https://github.com/minhunsocute/GHealth)
+<img align="right" alt="coding" width="400" src="https://github.com/minhunsocute/GHealth/blob/main/assets/images/intro.png">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhunsocute&repo=Tiktok_clone&theme=shades-of-purple)](https://github.com/minhunsocute/Tiktok_clone)
