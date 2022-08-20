@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Minh Hung</h1>
-<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhunsocute&label=Profile%20views&color=0e75b6&style=flat" alt="minhunsocute" /> </p>
 
