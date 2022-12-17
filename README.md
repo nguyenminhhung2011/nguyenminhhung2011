@@ -1,6 +1,4 @@
-<p align="center">
- <img src="https://c4.wallpaperflare.com/wallpaper/844/532/989/jump-charlie-brown-snoopy-the-peanuts-wallpaper-preview.jpg" alt="My Banner" width=2000 , heigh=100></a>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Nguyen Minh Hung</h1>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
