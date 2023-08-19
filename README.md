@@ -1,7 +1,7 @@
 
 <a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-<h1 align="center">Hi 👋, I'm Nguyen Minh Hung</h1>
+<h1 align="center">Hi 🐼, I'm Nguyen Minh Hung 🐼</h1>
 <img align="right" alt="coding" width="400" src="https://github.com/nguyenminhhung2011/nguyenminhhung2011/assets/90996598/eca5bef5-4def-4252-b150-b63a8f3ca6e8">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhunsocute&label=Profile%20views&color=0e75b6&style=flat" alt="minhunsocute" /> </p>
