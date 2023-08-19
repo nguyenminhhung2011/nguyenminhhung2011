@@ -34,18 +34,3 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhunsocute&theme=cobalt&show_icons=true)
-
-## Most Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhunsocute&&layout=compact&&theme=shades-of-purple)
-
-
-## Most Project!
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhunsocute&repo=GHealth&theme=cobalt)](https://github.com/minhunsocute/GHealth)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhunsocute&repo=Tiktok_clone&theme=shades-of-purple)](https://github.com/minhunsocute/Tiktok_clone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhunsocute&repo=Mountain_trip_UI&theme=shades-of-purple)](https://github.com/minhunsocute/Mountain_trip_UI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhunsocute&repo=Instagram-Clone&theme=cobalt)](https://github.com/minhunsocute/Instagram-Clone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhunsocute&repo=Racing_Project&theme=cobalt)](https://github.com/minhunsocute/Racing_Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhunsocute&repo=MultiChatVersion2&theme=shades-of-purple)](https://github.com/minhunsocute/MultiChatVersion2)
-
-
