@@ -8,7 +8,7 @@
 
 - 🔭 I currently study in **Ho Chi Minh City University of Science (VNU - HCMUS).**
 
-- 🌱 I’m  **Flutter** developer
+- 🌱 I’m  **Mobile** developer
 
 - 💬 Goal: **My dream is become a software engineer.**
 
