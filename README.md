@@ -55,7 +55,7 @@ Hi, I'm **Nguyễn Quốc Hưng**, a passionate Mobile Developer with a strong f
 
 - 10,000+ installs on Google Play  
 - Used Clean Architecture, Chat AI integration, Firebase analytics  
-- Role: Lead Flutter Developer  
+- Role: Android developer
 
 ### 🔹 LetTutor  
 > An online language learning app with scheduling, video calls, and payments.
