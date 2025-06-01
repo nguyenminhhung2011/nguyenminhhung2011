@@ -21,26 +21,30 @@ Hi, I'm **Nguyễn Quốc Hưng**, a passionate Mobile Developer with a strong f
 
 ---
 
-## 🧰 Tech Stack
-
-### ⚙️ Languages & Platforms
-- Dart (Flutter), Kotlin (Android)
-- Spring Boot, MySQL (for backend integration)
+## 🛠️ Skills
 
 ### 📱 Mobile Development
-- **Flutter**: GetX, Bloc, Provider, Riverpod, .....
-- **Android Native**: MVVM, MutableStateFlow, Moshi, Retrofit, Android service (Accessibility, Input Method, Foreground,..)
-- Custom Views, Bubble Views, Services
+- **Flutter**: MVVM, Clean Architecture, custom widgets, responsive UI (Web/Mobile), multi-tenant routing  
+- **Android (Kotlin)**: Jetpack Compose, MVVM, Android services (Accessibility, Input Method, Foreground,...), API security with Interceptor  
+- **State Management**: Riverpod, Bloc, GetX, Provider  
 
-### 💾 Data Handling
-- Hive, SharedPreferences, Isar,....
-- Firebase (Firestore, Notifications, Analytics)
-- RESTful APIs, WebSocket (Socket.io)
+### 💡 Architecture & Patterns
+- Clean Architecture, **SOLID**, design patterns (Factory, Strategy, State, Singleton,...)  
+- **Dependency Injection** (get_it, injectable)  
 
-### 🧠 Architecture & Principles
-- Clean Architecture
-- SOLID Principles
-- AppModule & Dependency Injection
+### 📊 Data & APIs
+- **Local Storage**: Hive, Isar, Room, SharedPreferences  
+- **Networking**: Dio, Retrofit, REST, GraphQL  
+- **Firebase**: Firestore, Notifications  
+
+### 🛠️ Tools & Workflow
+- Git, GitHub CI, Jira, Linear, Notion  
+- Export to Excel, printing, SDK/payment integrations  
+
+### 💻 Backend & Other
+- Node.js, Spring Boot  
+- Languages: Dart, Kotlin, Java, JavaScript, C++, C#  
+- English: Technical reading proficiency  
 
 ---
 
@@ -87,7 +91,6 @@ A Flutter plugin to interact with Urovo device hardware.
 
 ## 📖 Core Values
 
-- 👨‍👩‍👧 Family-first mindset, always working hard to provide for loved ones  
 - 🤝 Humble, but hungry to grow and contribute  
 - 🔍 Detail-oriented and clean-code advocate  
 - 🧗 Constantly learning and pushing past comfort zones  
