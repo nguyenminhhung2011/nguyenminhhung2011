@@ -6,7 +6,7 @@
 
 # 👨‍💻 Nguyễn Minh  Hưng — Mobile Developer
 
-Hi, I'm **Nguyễn Quốc Hưng**, a passionate Mobile Developer with a strong focus on **Flutter** and **Android (Kotlin)**. With a solid foundation in software engineering and a mindset of constant improvement, I aim to deliver clean, scalable, and high-performance mobile applications that solve real-world problems.
+Hi, I'm **Nguyễn Minh Hưng**, a passionate Mobile Developer with a strong focus on **Flutter** and **Android (Kotlin)**. With a solid foundation in software engineering and a mindset of constant improvement, I aim to deliver clean, scalable, and high-performance mobile applications that solve real-world problems.
 
 ---
 
