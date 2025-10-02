@@ -15,10 +15,7 @@ Hi, I'm **Nguyễn Minh Hưng**, a passionate Mobile Developer with a strong foc
 - 🎓 **Bachelor of Software Engineering**, University of Science - VNUHCM  
   GPA: 8.2 / 10  
 - 🏆 **2nd Prize – Techconomy 2022**, ERP technology solutions
-- 🎯 **Goal**: Become a Senior Mobile Developer in **2 years**  
 - 💼 Currently working at **Mobile Developer** Position (Flutter, Android)
-- 📱 Published apps on **Google Play**, including **JarvisAI** (10,000+ downloads)
-
 ---
 
 ## 🛠️ Skills
@@ -80,29 +77,24 @@ A floating bubble view service inspired by Facebook chat bubbles.
 - Easy to configure drag & close logic
 - Highly customizable with Compose or XML views
 
+### 🧩 [pl_bubble](https://github.com/GradleBuildTech/pl_bubble)
+A floating bubble view service inspired by Facebook chat bubbles.
+
+- Kotlin-based floating service with edge animation
+- Easy to configure drag & close logic
+- Highly customizable with Flutter
+
+### 🧩 [pl_api_helper](https://github.com/GradleBuildTech/pl_api_helper)
+A comprehensive Flutter plugin for simplified API calls, caching, and model mapping with support for both Dio and standard HTTP clients.
+
+
+
 ### 🧩 [urovo_flutter](https://github.com/GradleBuildTech/urovo_flutter)
 A Flutter plugin to interact with Urovo device hardware.
 
 - Supports: Scanner, Printer, Beeper, Magnetic Card Reader
 - Real-time barcode scanning and image printing
 - Simple Dart API and easy integration
-
----
-
-## 📖 Core Values
-
-- 🤝 Humble, but hungry to grow and contribute  
-- 🔍 Detail-oriented and clean-code advocate  
-- 🧗 Constantly learning and pushing past comfort zones  
-
----
-
-## 🧭 Goals (Roadmap)
-
-- Become a **Senior Mobile Developer**  in **2 years**
-- Master Flutter Web & Desktop  
-- Improve **Android performance optimization** & multithreading  
-- Contribute to more open-source libraries for mobile devs  
 
 ---
 
