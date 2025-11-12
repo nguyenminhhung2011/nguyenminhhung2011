@@ -54,6 +54,10 @@ Hi, I'm **Nguyễn Minh Hưng**, a passionate Mobile Developer with a strong foc
 - Used Clean Architecture, Chat AI integration, Firebase analytics  
 - Role: Android developer
 
+<a href="https://play.google.com/store/apps/details?id=cx.jarvis.ai&utm_source=ldp_download_section">
+    <img src="https://github.com/user-attachments/assets/8699ffd3-3399-45eb-9e2b-88818ba62091" width="200" />
+</a>
+
 ### 🔹 LetTutor  
 > An online language learning app with scheduling, video calls, and payments.
 
