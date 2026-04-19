@@ -21,9 +21,9 @@ Hi, I'm **Nguyễn Minh Hưng**, a passionate Mobile Developer with a strong foc
 ## 🛠️ Skills
 
 ### 📱 Mobile Development
-- **Flutter**: MVVM, Clean Architecture, custom widgets, responsive UI (Web/Mobile), multi-tenant routing, Isolate, Stream, ....
-- **Android (Kotlin)**: Jetpack Compose, MVVM, Android services (Accessibility, Input Method, Foreground,...), API security with Interceptor, Media, CameraX, BroadcastReceiver,...
-- **State Management**: Riverpod, Bloc, GetX, Provider  
+- **Flutter**: MVVM, Clean Architecture, custom widgets, responsive UI (Web/Mobile), multi-tenant routing, Isolate, Stream, StateManagement (Bloc, GetX, RiverPod, Provider) ....
+- **Android (Kotlin)**: Jetpack Compose,Coroutine, MVVM, Android services (Accessibility, Input Method, Foreground,...), API security with Interceptor, Media, CameraX, BroadcastReceiver, RxJava, ...
+- iOS (Swift): SwiftUI (UI), Combine (reactive programming), Socket.IO (real-time communication), Realm (local database), URLSession (networking)...
 
 ### 💡 Architecture & Patterns
 - Clean Architecture, **SOLID**, design patterns (Factory, Strategy, State, Singleton,...)  
@@ -31,8 +31,7 @@ Hi, I'm **Nguyễn Minh Hưng**, a passionate Mobile Developer with a strong foc
 
 ### 📊 Data & APIs
 - **Local Storage**: Hive, Isar, Room, SharedPreferences  
-- **Networking**: Dio, Retrofit, REST, GraphQL  
-- **Firebase**: Firestore, Notifications  
+- **Firebase**: Firestore, Notifications, Analytics, Crashlytics,...  
 
 ### 🛠️ Tools & Workflow
 - Git, GitHub CI, Jira, Linear, Notion  
@@ -42,92 +41,6 @@ Hi, I'm **Nguyễn Minh Hưng**, a passionate Mobile Developer with a strong foc
 - Node.js, Spring Boot  
 - Languages: Dart, Kotlin, Java, JavaScript, C++, C#  
 - English: Technical reading proficiency  
-
----
-
-## 📂 Projects Highlight
-
-### 🔹 JarvisAI  
-> A smart assistant app built with Flutter and integrated with multiple APIs and features.
-
-- 10,000+ installs on Google Play  
-- Used Clean Architecture, Chat AI integration, Firebase analytics  
-- Role: Android developer
-
-<a href="https://play.google.com/store/apps/details?id=cx.jarvis.ai&utm_source=ldp_download_section">
-    <img src="https://github.com/user-attachments/assets/8699ffd3-3399-45eb-9e2b-88818ba62091" width="200" />
-</a>
-
-### 🔹 LetTutor  
-> An online language learning app with scheduling, video calls, and payments.
-
-- Built using Flutter and integrated with RESTful APIs  
-- Managed local cache, pagination, and error handling  
-
-### 🔹 Flight Booking System  
-> A cross-platform booking system with real-time ticket updates.
-
-- Implemented barcode & QR scanning, animated UI  
-- Offline data handling with Hive  
-
-### 🔹 Edu code league
-<a href="https://play.google.com/store/apps/details?id=com.edu.edu_code_league&pcampaignid=web_share">
-    <img src="https://github.com/user-attachments/assets/8699ffd3-3399-45eb-9e2b-88818ba62091" width="200" />
-</a>
-<a href="https://apps.apple.com/vn/app/edu-code-league/id6747915183?l=vi">
-    <img src="https://github.com/user-attachments/assets/cfb6c288-7b66-4488-98c7-df07de27e8a5" width="200" />
-</a>
-
----
-
-## 📦 Open Source Contributions
-
-### 🧩 [bububle-service](https://github.com/GradleBuildTech/bububle-service)
-A floating bubble view service inspired by Facebook chat bubbles.
-
-- Kotlin-based floating service with edge animation
-- Easy to configure drag & close logic
-- Highly customizable with Compose or XML views
-
-### 🧩 [pl_bubble](https://github.com/GradleBuildTech/pl_bubble)
-A floating bubble view service inspired by Facebook chat bubbles.
-
-- Kotlin-based floating service with edge animation
-- Easy to configure drag & close logic
-- Highly customizable with Flutter
-
-### 🧩 [pl_api_helper](https://github.com/GradleBuildTech/pl_api_helper)
-A comprehensive Flutter plugin for simplified API calls, caching, and model mapping with support for both Dio and standard HTTP clients.
-
-
-
-### 🧩 [urovo_flutter](https://github.com/GradleBuildTech/urovo_flutter)
-A Flutter plugin to interact with Urovo device hardware.
-
-- Supports: Scanner, Printer, Beeper, Magnetic Card Reader
-- Real-time barcode scanning and image printing
-- Simple Dart API and easy integration
-
-### 🧩 [pl_flow](https://pub.dev/packages/pl_flow)
-Lightweight, Flutter-friendly reactive flows for state and event streams.
-
-- StateFlow: holds a current value and emits updates to listeners
-- SharedFlow: multicast/event stream with replay and buffer control
-- FlowBuilder: tiny widget to build UI from a MutableFlow
-- MultiFlowBuidler: listen to multiple flows and build from their combined data
-- PulseStreamBuilder: ergonomic, typed alternative to StreamBuilder
-- FlowObserver: track and dispose flows to avoid leaks
-
-### 🧩 [pl_isolate](https://pub.dev/packages/pl_isolate)
-A powerful Flutter plugin that simplifies isolate communication and management. Run heavy computations in separate isolates without blocking the UI thread.
-
-* 🚀 Easy Isolate Management: Simple API to create and manage isolates
-* 🔄 Automatic Disposal: Auto-dispose isolates after inactivity
-* 🎯 Type-Safe Operations: Define operations with clear interfaces
-* 🔐 Thread-Safe: Built-in synchronization for concurrent operations
-* 📊 Multiple Isolates: Each operation can have its own isolate helper
-* 🎨 UI Isolate Support: Support for both Dart isolates and UI isolates
-* ⚡ Performance: Run CPU-intensive tasks without blocking the main thread
 
 ---
 
